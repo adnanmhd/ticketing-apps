@@ -1,0 +1,82 @@
+
+@media (max-width: 768px) {
+.content {
+	padding: 40% 0 0;
+}
+#form-section{
+	min-height: 900px;
+}
+
+
+}
+
+@media (max-width: 603px) {
+#menu.navbar-default {
+	background-color: rgba(0, 0, 0, 0.7);
+}
+label {
+	float: none !important
+}
+.pull-left.fnav, .pull-right.fnav {
+	float: none !important;
+	text-align: center;
+}
+.hover-bg .hover-text {
+	padding: 12% 10%;
+}
+
+.section-title h2{
+	font-size: 20px;
+	font-weight: 300;
+	/*margin-bottom: 10px;*/
+	
+	color: #CF000F;
+	font-style: italic;
+}
+
+#form-section{
+	min-height: 900px;
+}
+
+
+ul.meta-post li a{
+	color:#999;
+	float:left;
+	font-size:10px;
+	font-weight:600;
+}
+
+
+.intro-text {
+	position: relative;
+	padding-top: 200px;
+	padding-right: 0;
+	padding-left: 0;
+	padding-bottom: 170px;
+}
+.intro-text H1 {
+	font-size: 27px;
+	text-transform: uppercase;
+	color: #222;
+    font-style: italic;
+    /*font-family: "Calibri Light";*/
+	font-weight: 500;
+}
+.intro-text h3{
+	margin-top: 0;
+}
+
+.intro-text hr{
+  width: 65%;
+}
+
+}
+
+@media (max-width: 360px) {
+.hover-bg .hover-text {
+	padding: 22% 10%;
+	}
+
+
+
+}
